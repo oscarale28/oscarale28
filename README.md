@@ -1,6 +1,6 @@
 <h1 align="center">Hola👋, soy Oscar Orellana </h1>
-<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="20"/> Técnico en Desarrollo de Software</h3>
-<h6 align="center">Especializado en el área de desarrollo front-end web, actualmente estudiando Ingeniería en Desarrollo de Software. </h6>
+<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="20"/> Técnico en Desarrollo de Software</h2>
+<p align="center">Especializado en el área de desarrollo front-end web, actualmente estudiando Ingeniería en Desarrollo de Software. </p>
 
 <h3>Con experiencia en</h3>
 <p align="center">
