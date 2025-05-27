@@ -1,38 +1,28 @@
-<h1 align="center">Hola👋, soy Oscar Orellana </h1>
-<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="20"/> Técnico en Desarrollo de Software</h2>
-<p align="center">Especializado en el área de desarrollo front-end web, actualmente estudiando Ingeniería en Desarrollo de Software. </p>
+# Hola👋, soy Oscar Orellana
+## 💻 Técnico en Desarrollo de Software
+Especializado en el área de desarrollo front-end, actualmente estudiando Ingeniería en Desarrollo de Software. Cuento con tres años de experiencia en la construcción de plataformas web administrativas para diversas industrias en Centroamérica, principalmente del rubro financiero y comercial. Me especializo en el diseño de interfaces de usuario intuitivas que mejoran la eficiencia de operaciones y la experiencia de usuario.
 
-<h3>Con experiencia en</h3>
-<p align="center">
+### Con experiencia en
+<div>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-  <img alt="java" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" />
-
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
   <img alt="React " src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-
-</p>
-
-<h3>Actualmente aprendiendo</h3>
-
-<p align="center">
   <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="TS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="TS" src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+</div>
 
+### Actualmente aprendiendo
+
+<div>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
+    <img alt="TS" src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img alt="TS" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
 
 ---
 
@@ -54,9 +44,9 @@
   <li> 
     <b><a href="https://github.com/oscarale28/Cinemapp">CinemApp.</a></b> Sitio web elaborado como prueba técnica para Echo Technologies, haciendo consumo de "The Movie Database API" para el listado de distintas películas.
   </li>
-  <img src="https://github.com/oscarale28/oscarale28/blob/main/resources/cinemapp1.png?raw=true" width="30%"></img> 
-  <img src="https://github.com/oscarale28/oscarale28/blob/main/resources/cinemapp2.png?raw=true" width="30%"></img> 
-  <img src="https://github.com/oscarale28/oscarale28/blob/main/resources/cinemapp3.png?raw=true" width="30%"></img>
+  <img src="https://github.com/oscarale28/oscarale28/blob/main/resources/cinemapp1.png?raw=true" width="30%"/> 
+  <img src="https://github.com/oscarale28/oscarale28/blob/main/resources/cinemapp2.png?raw=true" width="30%"/> 
+  <img src="https://github.com/oscarale28/oscarale28/blob/main/resources/cinemapp3.png?raw=true" width="30%"/>
 
 </ul>
 
