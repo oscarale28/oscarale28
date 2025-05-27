@@ -1,6 +1,6 @@
 # Hola👋, soy Oscar Orellana
-## 💻 Técnico en Desarrollo de Software
-Especializado en el área de desarrollo front-end, actualmente estudiando Ingeniería en Desarrollo de Software. Cuento con tres años de experiencia en la construcción de plataformas web administrativas para diversas industrias en Centroamérica, principalmente del rubro financiero y comercial. Me especializo en el diseño de interfaces de usuario intuitivas que mejoran la eficiencia de operaciones y la experiencia de usuario.
+## 💻 Técnico en Desarrollo de Software | Front-End Developer
+Estudiante de Ingeniería en Desarrollo de Software, graduado de bachillerato técnico. Cuento con tres años de experiencia profesional en la construcción de plataformas web administrativas para diversas compañías en Centroamérica, principalmente del rubro financiero y comercial. Me especializo en el diseño de interfaces de usuario intuitivas que mejoran la eficiencia de operaciones y la experiencia de usuario.
 
 ### Con experiencia en
 <div>
